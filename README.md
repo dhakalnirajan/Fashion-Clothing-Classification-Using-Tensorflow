@@ -1,6 +1,6 @@
 # Fashion-Clothing-Classification-Using-Tensorflow
 
-A **[Tensorflow](https://tensorflow.org "Official Tensorflow Website") Machine Learning pre-trained Model** for **Fashion Clothing Image Classification**.
+A **[Tensorflow](https://tensorflow.org "Official Tensorflow Website") Machine Learning pre-trained Model** using **Convolutional Neural Network** for **Fashion Clothing Image Classification**.
 
 This is a simple Tensorflow project for classifying different types of clothing. The dataset used for this project is the Fashion MNIST dataset which can be found [here](https://github.com/zalandoresearch/fashion-mnist).
 
@@ -20,7 +20,7 @@ tensorflow 2.0x, jupyter notebook, python 3.0
 
 ## Built With
 
-* [Tensorflow](https://www.tensorflow.org/) - The web framework used
+* [Tensorflow](https://www.tensorflow.org/) - Machine Learning Framework Used
 * [Fashion MNIST](https://github.com/zalandoresearch/fashion-mnist) - Dataset used
 
  
