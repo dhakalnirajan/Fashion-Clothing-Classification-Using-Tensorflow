@@ -1,0 +1,8 @@
+- name: Dynamic Readme
+  uses: varunsridharan/action-dynamic-readme@1.2
+  
+  - name: Comment current pull request
+  uses: alawiii521/current-pr-comment@v1.0
+
+- name: CodeSee Detect Languages
+  uses: Codesee-io/codesee-detect-languages-action@v1
