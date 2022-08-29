@@ -27,7 +27,7 @@ tensorflow 2.0x, jupyter notebook, python 3.0
 
 ## Authors
 
-* **Nirajan Dhakal** - *Initial work* - [Profile](https://github.com/nirajandhakal07)
+* **Nirajan Dhakal** - [Profile](https://github.com/dhakalnirajan)
 
 
 ## License
